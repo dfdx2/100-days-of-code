@@ -9,3 +9,6 @@ Worked thru the first chapter of programming problems in Introduction to Java Pr
 
 ### R1D2
 Worked on programming problems in chapter 2.  Alot of math related problems involving finding conversion rates and averages.
+
+### R1D3
+Finishing up the programming problimes in chapter 2.  More conversion and math related problems to solve. 
