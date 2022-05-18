@@ -12,3 +12,6 @@ Worked on programming problems in chapter 2.  Alot of math related problems invo
 
 ### R1D3
 Finishing up the programming problimes in chapter 2.  More conversion and math related problems to solve. 
+
+### R1D4
+Working on program problems in chapter 3.  Using java flow control if, if else, and switch statements.
