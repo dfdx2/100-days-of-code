@@ -15,3 +15,6 @@ Finishing up the programming problimes in chapter 2.  More conversion and math r
 
 ### R1D4
 Working on program problems in chapter 3.  Using java flow control if, if else, and switch statements.
+
+### R1D5
+Took a break from Introduction to Java Programming and worked on some CodeWars problems.  
