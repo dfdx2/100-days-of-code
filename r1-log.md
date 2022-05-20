@@ -18,3 +18,6 @@ Working on program problems in chapter 3.  Using java flow control if, if else, 
 
 ### R1D5
 Took a break from Introduction to Java Programming and worked on some CodeWars problems.  
+
+### R1D6
+Worked on some more CodeWars problems.  Created a repo for my CodeWars solutions.
