@@ -21,3 +21,9 @@ Took a break from Introduction to Java Programming and worked on some CodeWars p
 
 ### R1D6
 Worked on some more CodeWars problems.  Created a repo for my CodeWars solutions.
+
+### R1D7
+Finished 2 CodeWars problems.  Updated the CodeWars repo with the solutions.
+
+### R1D8
+Went back to the Introduction to Java Programming book and started Chapter 4.
