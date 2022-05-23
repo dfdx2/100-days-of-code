@@ -27,3 +27,6 @@ Finished 2 CodeWars problems.  Updated the CodeWars repo with the solutions.
 
 ### R1D8
 Went back to the Introduction to Java Programming book and started Chapter 4.
+
+### R1D9
+Did alot of CodeWars today.  I got the hang of how the test suite works and was able to focus and get alot done today.
