@@ -33,3 +33,6 @@ Did alot of CodeWars today.  I got the hang of how the test suite works and was 
 
 ### R1D10
 Did more CodeWars today.  Went back to Introduction to Java Programming book continued in Chapter 4.
+
+### R1D11
+Went in depth on Java string manipulation and math methods.
