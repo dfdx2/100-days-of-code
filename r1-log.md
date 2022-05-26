@@ -36,3 +36,6 @@ Did more CodeWars today.  Went back to Introduction to Java Programming book con
 
 ### R1D11
 Went in depth on Java string manipulation and math methods.
+
+### R1D12
+Worked on array manipulation in Java and studied the differences between that and other languages.
