@@ -39,3 +39,6 @@ Went in depth on Java string manipulation and math methods.
 
 ### R1D12
 Worked on array manipulation in Java and studied the differences between that and other languages.
+
+### R1D13
+Did some CodeWars katas and then continued studying array manipulation in Java.
