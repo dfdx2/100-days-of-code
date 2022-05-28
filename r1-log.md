@@ -42,3 +42,6 @@ Worked on array manipulation in Java and studied the differences between that an
 
 ### R1D13
 Did some CodeWars katas and then continued studying array manipulation in Java.
+
+### R1D14
+Today studied Java methods the creation and implementation of them.
