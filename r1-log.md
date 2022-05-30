@@ -48,3 +48,6 @@ Today studied Java methods the creation and implementation of them.
 
 ### R1D15
 Today was all about CodeWars.  Was able to finish 12 Katas today.
+
+### R1D16
+Learned how to use the Ternary Operator in Java to replace if else statements.
