@@ -45,3 +45,6 @@ Did some CodeWars katas and then continued studying array manipulation in Java.
 
 ### R1D14
 Today studied Java methods the creation and implementation of them.
+
+### R1D15
+Today was all about CodeWars.  Was able to finish 12 Katas today.
