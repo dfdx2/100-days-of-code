@@ -51,3 +51,6 @@ Today was all about CodeWars.  Was able to finish 12 Katas today.
 
 ### R1D16
 Learned how to use the Ternary Operator in Java to replace if else statements.
+
+### R1D17
+Worked on Hashtable mapping today.
