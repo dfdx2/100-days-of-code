@@ -54,3 +54,6 @@ Learned how to use the Ternary Operator in Java to replace if else statements.
 
 ### R1D17
 Worked on Hashtable mapping today.
+
+### R1D18
+More work today with Hashtable mapping.
