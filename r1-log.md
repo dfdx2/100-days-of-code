@@ -57,3 +57,6 @@ Worked on Hashtable mapping today.
 
 ### R1D18
 More work today with Hashtable mapping.
+
+### R1D19
+Did 3 CodeWars Katas today.  I found I am learning more solving these than reading a book.  
