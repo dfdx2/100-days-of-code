@@ -60,3 +60,6 @@ More work today with Hashtable mapping.
 
 ### R1D19
 Did 3 CodeWars Katas today.  I found I am learning more solving these than reading a book.  
+
+### R1D20
+Worked on a CodeWars Kata today.  Then went back and refactored some of my earler solutions.  
