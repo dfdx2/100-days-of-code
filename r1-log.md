@@ -63,3 +63,6 @@ Did 3 CodeWars Katas today.  I found I am learning more solving these than readi
 
 ### R1D20
 Worked on a CodeWars Kata today.  Then went back and refactored some of my earler solutions.  
+
+### R1D21
+Did some Codewars and refactored some earlier solutions.  
