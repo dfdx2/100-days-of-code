@@ -66,3 +66,6 @@ Worked on a CodeWars Kata today.  Then went back and refactored some of my earle
 
 ### R1D21
 Did some Codewars and refactored some earlier solutions.  
+
+### R1D22
+Today did some Exercism and CodingBat problems.
