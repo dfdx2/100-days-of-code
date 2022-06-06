@@ -69,3 +69,6 @@ Did some Codewars and refactored some earlier solutions.
 
 ### R1D22
 Today did some Exercism and CodingBat problems.
+
+### R1D23
+Today did some refactoring and took a code that was over 90 lines long and made it 1 line and was so happy.
