@@ -76,3 +76,5 @@ Today did some refactoring and took a code that was over 90 lines long and made 
 ### R1D24
 Today started chapter 5 of Introduction to Java Programming and studied Loop Design Strategies.
 
+### R1D25
+Did some CodeWars katas and studied Java Methods, how to define and set them up.
