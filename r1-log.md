@@ -81,3 +81,6 @@ Did some CodeWars katas and studied Java Methods, how to define and set them up.
 
 ### R1D26
 Did a CodeWars kata and then continued working with Methods.
+
+### R1D27
+Worked on some more CodeWars today and refactored some earlier solutions.
