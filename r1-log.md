@@ -78,3 +78,6 @@ Today started chapter 5 of Introduction to Java Programming and studied Loop Des
 
 ### R1D25
 Did some CodeWars katas and studied Java Methods, how to define and set them up.
+
+### R1D26
+Did a CodeWars kata and then continued working with Methods.
