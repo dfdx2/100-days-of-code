@@ -84,3 +84,6 @@ Did a CodeWars kata and then continued working with Methods.
 
 ### R1D27
 Worked on some more CodeWars today and refactored some earlier solutions.
+
+### R1D28
+Read some more Introduction to Java Programming and worked on some CodeWars problems.
