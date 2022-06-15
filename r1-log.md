@@ -96,3 +96,6 @@ Did some work with recursion today.  Figuring out how to code that in Java.
 
 ### R1D31
 Worked on data structures and how to manuever thru them today.
+
+### R1D32
+Today I did something different and did some LeetCode.
