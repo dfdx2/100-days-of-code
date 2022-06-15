@@ -93,3 +93,6 @@ CodeWars and more CodeWars today.
 
 ### R!D30
 Did some work with recursion today.  Figuring out how to code that in Java.
+
+### R1D31
+Worked on data structures and how to manuever thru them today.
