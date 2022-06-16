@@ -99,3 +99,6 @@ Worked on data structures and how to manuever thru them today.
 
 ### R1D32
 Today I did something different and did some LeetCode.
+
+### R1D33
+Data structures and LeetCode today.
