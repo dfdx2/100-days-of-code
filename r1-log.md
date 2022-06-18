@@ -105,3 +105,6 @@ Data structures and LeetCode today.
 
 ### R1D34
 More work with data structures.
+
+### R1D35
+Started reading Data Structures & Algorithms in Java by Robert Lafore.
