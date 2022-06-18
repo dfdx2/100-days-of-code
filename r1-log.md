@@ -102,3 +102,6 @@ Today I did something different and did some LeetCode.
 
 ### R1D33
 Data structures and LeetCode today.
+
+### R1D34
+More work with data structures.
