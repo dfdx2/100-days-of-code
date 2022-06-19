@@ -108,3 +108,6 @@ More work with data structures.
 
 ### R1D35
 Started reading Data Structures & Algorithms in Java by Robert Lafore.
+
+### R1D36
+Continued reading Data Stuctures & Algorithms in Java.  Plus completed 2 LeetCode problems.
