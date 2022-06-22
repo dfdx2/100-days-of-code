@@ -114,3 +114,7 @@ Continued reading Data Stuctures & Algorithms in Java.  Plus completed 2 LeetCod
 
 ### R1D37
 Today was LeetCode grind.  
+
+### R1D38
+Today was more LeetCode and Codewars questions.
+
