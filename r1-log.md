@@ -118,3 +118,6 @@ Today was LeetCode grind.
 ### R1D38
 Today was more LeetCode and Codewars questions.
 
+### R1D39
+Started Chapter 2 of Data Structures & Algorithms in Java.
+
