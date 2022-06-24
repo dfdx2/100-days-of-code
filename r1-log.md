@@ -124,3 +124,6 @@ Started Chapter 2 of Data Structures & Algorithms in Java.
 ### R1D40
 LeetCode grind day
 
+### R1D41
+Continued Chapter 2 of Data Structures & Algorithms in Java.
+
