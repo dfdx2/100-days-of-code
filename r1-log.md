@@ -139,3 +139,6 @@ LeetCode and Codewars problems today.
 ### R1D45
 Continued in Chapter 3 of Data Structures & Algorithms in Java.
 
+### R1D46
+Worked on some LeetCode problems today.
+
