@@ -145,3 +145,5 @@ Worked on some LeetCode problems today.
 ### R1D47
 More Chapter 3 of Data Structures & Algorithms in Java.
 
+### R1D48
+Worked on Binary Trees today.
