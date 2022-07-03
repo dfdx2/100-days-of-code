@@ -147,3 +147,6 @@ More Chapter 3 of Data Structures & Algorithms in Java.
 
 ### R1D48
 Worked on Binary Trees today.
+
+### R1D49
+Today was LeetCode and CodeWars problems.
