@@ -150,3 +150,7 @@ Worked on Binary Trees today.
 
 ### R1D49
 Today was LeetCode and CodeWars problems.
+
+### R1D50
+Continued with Data Structures & Algorithms in Java.
+
