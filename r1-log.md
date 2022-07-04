@@ -154,3 +154,5 @@ Today was LeetCode and CodeWars problems.
 ### R1D50
 Continued with Data Structures & Algorithms in Java.
 
+### R1D51
+Worked on accessing array elements in Data Structures & Algortithms in Java.
