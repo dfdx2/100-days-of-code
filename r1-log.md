@@ -156,3 +156,7 @@ Continued with Data Structures & Algorithms in Java.
 
 ### R1D51
 Worked on accessing array elements in Data Structures & Algortithms in Java.
+
+### R1D52
+Did some CodeWars Katas and LeetCode problems today.
+
