@@ -162,3 +162,6 @@ Did some CodeWars Katas and LeetCode problems today.
 
 ### R1D53
 Did some more studying Data Structures & Algorithms in Java book.
+
+### R1D54
+Today continued with Data Structures & Algorithms in Java.
