@@ -169,3 +169,6 @@ Today continued with Data Structures & Algorithms in Java.
 ### R1D55
 Worked on some CodeWars and LeetCode problems today.
 
+### R1D56
+Did some more studying in Data Structures & Algorithms in Java book and 
+did 2 LeetCode problems and 2 CodeWars problems.
