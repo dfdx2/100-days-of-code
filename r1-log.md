@@ -175,3 +175,7 @@ did 2 LeetCode problems and 2 CodeWars problems.
 
 ### R1D57
 Today worked thru some binary search and quick sort problems.
+
+### R1D58
+Worked on Chapter 3 problems of Data Structures & Algorithms in Java.
+
