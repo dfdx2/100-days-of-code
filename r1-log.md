@@ -179,3 +179,6 @@ Today worked thru some binary search and quick sort problems.
 ### R1D58
 Worked on Chapter 3 problems of Data Structures & Algorithms in Java.
 
+### R1D59
+Today did some LeetCode and CodeWars problems.
+
