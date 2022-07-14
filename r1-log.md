@@ -182,3 +182,6 @@ Worked on Chapter 3 problems of Data Structures & Algorithms in Java.
 ### R1D59
 Today did some LeetCode and CodeWars problems.
 
+### R1D60
+Did some more work in Chapter 3 of Data Structures & Algorithms in Java. 
+Bubble Sort, Selection Sort and Insertion Sort
