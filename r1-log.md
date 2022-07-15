@@ -188,3 +188,7 @@ Bubble Sort, Selection Sort and Insertion Sort
 
 ### R1D61
 Started a LeetCode study plan dealing with Data Structures.
+
+### R1D62
+Continued working on the LeetCode study plan for Data Structures.
+
