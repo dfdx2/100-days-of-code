@@ -192,3 +192,5 @@ Started a LeetCode study plan dealing with Data Structures.
 ### R1D62
 Continued working on the LeetCode study plan for Data Structures.
 
+### R1D63
+Did some CodeWars and continued reading Chapter 4 of Data Structures & Algorithms in Java.
