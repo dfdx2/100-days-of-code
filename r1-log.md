@@ -197,3 +197,6 @@ Did some CodeWars and continued reading Chapter 4 of Data Structures & Algorithm
 
 ### R1D64
 Today was some LeetCode and more Data Structures & Algortihms in Java reading.
+
+### R1D65
+Worked on some CodeWars problems and continued Data Structres & Algorithms in Java.
