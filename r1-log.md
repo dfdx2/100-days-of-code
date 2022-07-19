@@ -200,3 +200,7 @@ Today was some LeetCode and more Data Structures & Algortihms in Java reading.
 
 ### R1D65
 Worked on some CodeWars problems and continued Data Structres & Algorithms in Java.
+
+### R1D66
+Worked on some Heap and Stack probelems from Data Structures & Algorithms in Java.
+
