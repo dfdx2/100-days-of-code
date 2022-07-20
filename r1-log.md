@@ -204,3 +204,5 @@ Worked on some CodeWars problems and continued Data Structres & Algorithms in Ja
 ### R1D66
 Worked on some Heap and Stack probelems from Data Structures & Algorithms in Java.
 
+### R1D67
+Today did 2 LeetCode questions and 1 CodeWars kata.
