@@ -206,3 +206,8 @@ Worked on some Heap and Stack probelems from Data Structures & Algorithms in Jav
 
 ### R1D67
 Today did 2 LeetCode questions and 1 CodeWars kata.
+
+### R1D68
+Had an OA assessment today and was pleased with my performance.  My code was 
+definitely better today than at day 1.  This challenge has definitely improved
+my coding skill and style.
