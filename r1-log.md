@@ -211,3 +211,6 @@ Today did 2 LeetCode questions and 1 CodeWars kata.
 Had an OA assessment today and was pleased with my performance.  My code was 
 definitely better today than at day 1.  This challenge has definitely improved
 my coding skill and style.
+
+### R1D69
+Did a LeetCode problem then continued in Chapter 5 of Data Structures & Algortihms in Java.
