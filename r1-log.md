@@ -214,3 +214,7 @@ my coding skill and style.
 
 ### R1D69
 Did a LeetCode problem then continued in Chapter 5 of Data Structures & Algortihms in Java.
+
+### R1D70
+Finished a LeetCode study guide and continued learning Data Structures & Algorithms in Java.
+
