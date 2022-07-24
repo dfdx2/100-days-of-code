@@ -218,3 +218,6 @@ Did a LeetCode problem then continued in Chapter 5 of Data Structures & Algortih
 ### R1D70
 Finished a LeetCode study guide and continued learning Data Structures & Algorithms in Java.
 
+### R1D71
+Did a CodeWars kata and a LeetCode problem then read some more Data Structures & Algorithms in Java.
+
