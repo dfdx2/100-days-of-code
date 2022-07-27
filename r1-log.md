@@ -224,5 +224,6 @@ Did a CodeWars kata and a LeetCode problem then read some more Data Structures &
 ### R1D72
 Continued in Chapter 5 of Data Structures & Algortimns in Java.
 
-
+### R1D73
+Solved 2 LeetCode problems and 2 CodeWars problems.  Continued reading Data Structures & Algortithms in Java.
 
