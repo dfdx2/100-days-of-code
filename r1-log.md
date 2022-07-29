@@ -227,3 +227,6 @@ Continued in Chapter 5 of Data Structures & Algortimns in Java.
 ### R1D73
 Solved 2 LeetCode problems and 2 CodeWars problems.  Continued reading Data Structures & Algortithms in Java.
 
+### R1D75
+Worked on some problems from chapter 5 of Data Structures & Algorithms in Java.
+
