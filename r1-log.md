@@ -233,3 +233,6 @@ Worked on some problems from chapter 5 of Data Structures & Algorithms in Java.
 ### R1D76
 Did 2 LeetCode problems and 2 CodeWars problems today.
 
+### R1D77
+Started working thru Elements of Programming Interviews in Java.
+
