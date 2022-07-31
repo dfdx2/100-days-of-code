@@ -236,3 +236,6 @@ Did 2 LeetCode problems and 2 CodeWars problems today.
 ### R1D77
 Started working thru Elements of Programming Interviews in Java.
 
+### R1D78
+Did 2 LeetCode problems and 2 CodeWars problems and continued Elements of Programming Interviews in Java.
+
