@@ -245,3 +245,5 @@ Continued working thru Elements of Programming Interviews in Java.
 ### R1D80
 Today I did 2 LeetCode questions and continued Elements of Programming Interviews in Java.
 
+### R1D81
+Did 1 LeetCode and 1 CodeWars problem.  Then continued Data Structures & Algorithms in Java
