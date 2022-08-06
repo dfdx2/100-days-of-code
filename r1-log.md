@@ -254,3 +254,7 @@ Did 2 LeetCode and 1 CodeWars today.  Also continued reading Data Structures & A
 ### R1D83
 Continued working thru Data Structures & Algortithms in Java.
 
+### R1D84
+Did 2 LeetCode problems and continued working thru the programming exercises in Data Structures & Algorithms in Java.
+
+
