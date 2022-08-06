@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [D Davis]
+# #100DaysOfCode Log - Round 1 - [Derrick Davis]
 
-The log of my #100DaysOfCode challenge. Started on [May 15, Sunday, 2021].
+This is my personal daily log of my #100DaysOfCode challenge. Started on [May 15, Sunday, 2021].
 
 ## Log
 
