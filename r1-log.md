@@ -257,4 +257,7 @@ Continued working thru Data Structures & Algortithms in Java.
 ### R1D84
 Did 2 LeetCode problems and continued working thru the programming exercises in Data Structures & Algorithms in Java.
 
+### R1D85
+Did programming exercises in Data Structures & Algorithms in Java and 2 LeetCode and 1 CodeWars problem.
+
 
