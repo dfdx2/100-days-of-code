@@ -260,4 +260,5 @@ Did 2 LeetCode problems and continued working thru the programming exercises in 
 ### R1D85
 Did programming exercises in Data Structures & Algorithms in Java and 2 LeetCode and 1 CodeWars problem.
 
-
+### R1D86
+Went back to Elements of Programming Interviews in Java and did 1 LeetCode and 1 CodeWars problem.
