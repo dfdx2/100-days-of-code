@@ -265,3 +265,6 @@ Went back to Elements of Programming Interviews in Java and did 1 LeetCode and 1
 
 ### R1D87
 Did 1 CodeWars problem and continued working thru problems in Elements of Programming Interviews in Java.
+
+### R1D88
+Did 1 CodeWars problem and problems from Elements of Programming Interviews in Java.
