@@ -271,3 +271,7 @@ Did 1 CodeWars problem and problems from Elements of Programming Interviews in J
 
 ## R1D89
 Today I did my first Hackathon!  
+
+## R1D90
+Did problems from Elements of Programming Interviews in Java and 2 LeetCode questions.
+
