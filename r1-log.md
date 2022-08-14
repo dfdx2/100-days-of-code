@@ -277,3 +277,6 @@ Did problems from Elements of Programming Interviews in Java and 2 LeetCode ques
 
 ### R1D91
 Did 1 LeetCode and 1 CodeWars problem.  Also started a new project with Java and Spring to assist people looking for volunteer opportunities in their community.
+
+### R1D92
+Built out the skeleton using Java Spring Boot for new project and worked on documentation explaining the process.
