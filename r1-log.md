@@ -280,3 +280,7 @@ Did 1 LeetCode and 1 CodeWars problem.  Also started a new project with Java and
 
 ### R1D92
 Built out the skeleton using Java Spring Boot for new project and worked on documentation explaining the process.
+
+### R1D93
+Today did 1 LeetCode and 1 CodeWars problem then went back to Elements of Programming Interviews in Java problems.
+
