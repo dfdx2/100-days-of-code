@@ -284,3 +284,6 @@ Built out the skeleton using Java Spring Boot for new project and worked on docu
 ### R1D93
 Today did 1 LeetCode and 1 CodeWars problem then went back to Elements of Programming Interviews in Java problems.
 
+### R1D94
+Today worked on some LeetCode and CodeWars problems.  Working on Data Structures & Algorithms in Java 
+
