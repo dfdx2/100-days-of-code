@@ -287,3 +287,5 @@ Today did 1 LeetCode and 1 CodeWars problem then went back to Elements of Progra
 ### R1D94
 Today worked on some LeetCode and CodeWars problems.  Working on Data Structures & Algorithms in Java 
 
+### R1D95
+Went back to Data Structures & Algorithms in Java.  Did 1 LeetCode and 1 CodeWars problem.  Continued working on project skeleton
