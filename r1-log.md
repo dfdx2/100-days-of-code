@@ -296,3 +296,8 @@ Went back to Introduction to Java Programming and worked the programming project
 ### R1D97
 Continued working on Spring framework for project and did 1 LeetCode and 1 CodeWars problem
 
+### R1D98
+Worked on programming problems from Data Structures & Algorithms in Java.
+
+
+
