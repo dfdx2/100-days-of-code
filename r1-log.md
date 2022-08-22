@@ -302,3 +302,5 @@ Worked on programming problems from Data Structures & Algorithms in Java.
 ### R1D99
 Continued working on programming problems from Data Structures & Algorithms in Java.
 
+### R1D100
+To celebrate I did the same as yesterday and the day before.  A CodeWars problem, a LeetCode problems and some Data Structures & Algorithms in Java
