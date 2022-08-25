@@ -9,3 +9,7 @@ Today starts Round 2 for me!  Today I worked on programming problems from Data S
 
 ### R2D2
 Today was bubble sort, insertion sort, deletion sort all the sorts.
+
+### R2D3
+Today worked on some LeetCode and CodeWars then continued programming problems from Data Structures & Algorithms in Java
+
