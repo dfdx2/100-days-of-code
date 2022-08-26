@@ -13,3 +13,6 @@ Today was bubble sort, insertion sort, deletion sort all the sorts.
 ### R2D3
 Today worked on some LeetCode and CodeWars then continued programming problems from Data Structures & Algorithms in Java
 
+### R2D4
+Today I worked with Spring Boot modifying my backend and trying to get it connected to the mongoDB
+
