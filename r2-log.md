@@ -16,3 +16,6 @@ Today worked on some LeetCode and CodeWars then continued programming problems f
 ### R2D4
 Today I worked with Spring Boot modifying my backend and trying to get it connected to the mongoDB
 
+### R2D5
+Continued work on project and finally got the correct routes for the backend to talk to the frontend
+
