@@ -19,3 +19,8 @@ Today I worked with Spring Boot modifying my backend and trying to get it connec
 ### R2D5
 Continued work on project and finally got the correct routes for the backend to talk to the frontend
 
+### R2D6
+Went back and worked on programming problems in Data Structures & Algorithms in Java
+
+
+
