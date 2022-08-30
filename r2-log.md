@@ -25,5 +25,8 @@ Went back and worked on programming problems in Data Structures & Algorithms in 
 ### R2D7
 Continued programming problems from Data Structures & Algorithms in Java
 
+### R2D8
+Worked on more programming problems from Data Structures & Algorithms in Java
+
 
 
