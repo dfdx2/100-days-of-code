@@ -28,5 +28,8 @@ Continued programming problems from Data Structures & Algorithms in Java
 ### R2D8
 Worked on more programming problems from Data Structures & Algorithms in Java
 
+### R2D9
+Today was CodeWars and LeetCode problems.
+
 
 
