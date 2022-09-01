@@ -31,5 +31,8 @@ Worked on more programming problems from Data Structures & Algorithms in Java
 ### R2D9
 Today was CodeWars and LeetCode problems.
 
+### R2D10
+Worked on problems from Data Structures & Algorithms in Java
+
 
 
