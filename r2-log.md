@@ -52,8 +52,12 @@ Continued working on recursion problems from Data Structures & Algorithms in Jav
 ### R2D16
 Today worked on CodeWars and LeetCode problems.
 
-### R1D17
+### R2D17
 More CodeWars and LeetCode problems today.
+
+### R2D18
+Worked on Insertion sort, Binary sort, and Inplace sorting algortithms
+
 
 
 
