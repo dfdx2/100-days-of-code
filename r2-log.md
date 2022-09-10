@@ -41,13 +41,7 @@ Did some more work on Spring Boot project.
 Worked on the recursion programming problems in Data Structures & Algorithms in Java
 
 ### R2D13
-<<<<<<< HEAD
-Today was LeetCode and CodeWars problems
-
-
-=======
 Continued working the recursion programming problems from Data Structures & Algorithms in Java
->>>>>>> refs/remotes/origin/master
 
 ### R2D14
 Continued working on recursion problems in Data Structures & Alogrithms in Java
