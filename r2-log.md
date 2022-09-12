@@ -58,7 +58,8 @@ More CodeWars and LeetCode problems today.
 ### R2D18
 Worked on Insertion sort, Binary sort, and Inplace sorting algortithms
 
-
+### R2D19
+Today worked with JUnit and learning how to build tests for my code
 
 
 
