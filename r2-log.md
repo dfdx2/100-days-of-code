@@ -61,6 +61,9 @@ Worked on Insertion sort, Binary sort, and Inplace sorting algortithms
 ### R2D19
 Today worked with JUnit and learning how to build tests for my code
 
+### R2D20
+Continued working with JUnit testing 
+
 
 
 
