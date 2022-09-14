@@ -67,6 +67,9 @@ Continued working with JUnit testing
 ### R2D21
 More work today with JUnit testing
 
+### R2D22
+Worked on the Spring framework for my project.  
+
 
 
 
