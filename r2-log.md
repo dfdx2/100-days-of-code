@@ -73,6 +73,10 @@ Worked on the Spring framework for my project.
 ### R2D23
 Did more work with JUnit getting the feel for how to incorporate it into my code.
 
+### R2D24
+Did LeetCode and CodeWars problems today.  
+
+
 
 
 
