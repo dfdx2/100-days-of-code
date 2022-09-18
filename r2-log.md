@@ -79,6 +79,7 @@ Did LeetCode and CodeWars problems today.
 ### R2D25
 Today did more work with JUnit testing and working with adding it to my Spring Boot project.
 
-
+### R2D26
+More work today on Spring Boot project.
 
 
