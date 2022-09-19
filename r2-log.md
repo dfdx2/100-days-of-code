@@ -82,4 +82,7 @@ Today did more work with JUnit testing and working with adding it to my Spring B
 ### R2D26
 More work today on Spring Boot project.
 
+### R2D27
+Worked on LeetCode and CodeWars problems today.  
+
 
