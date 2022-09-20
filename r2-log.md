@@ -85,4 +85,5 @@ More work today on Spring Boot project.
 ### R2D27
 Worked on LeetCode and CodeWars problems today.  
 
-
+### R2D28
+Today worked on traversing Linked Lists.
