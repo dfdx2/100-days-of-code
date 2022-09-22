@@ -1,8 +1,8 @@
 # #100DaysOfCode Log - Round 1 - [Derrick Davis]
 
-This is my personal daily log of my #100DaysOfCode challenge. Started on [May 15, Sunday, 2021].
+This is my personal daily log of my #100DaysOfCode challenge. Started on [May 15, Sunday, 2022].  Finished on [August 23, Tuesday 2022].
 
-## Log
+## ROUND 1 LOG
 
 ### R1D1 
 Worked thru the first chapter of programming problems in Introduction to Java Programming by Y. Daniel Liang
