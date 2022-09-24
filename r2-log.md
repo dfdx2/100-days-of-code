@@ -96,3 +96,7 @@ More recursion problems from Data Structures & Algorithms in Java.
 
 ### R2D31
 Worked today on Time and Space Complexity problems
+
+### R2D32
+Today worked on Linear Search Algortihms 
+
