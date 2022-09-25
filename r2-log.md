@@ -100,3 +100,8 @@ Worked today on Time and Space Complexity problems
 ### R2D32
 Today worked on Linear Search Algortihms 
 
+### R2D33
+More work with searching algorithms today
+
+
+
