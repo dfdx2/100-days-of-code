@@ -103,5 +103,8 @@ Today worked on Linear Search Algortihms
 ### R2D33
 More work with searching algorithms today
 
+### R2D34
+Worked today on more time and space complexity of algorithms
+
 
 
