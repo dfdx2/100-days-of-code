@@ -109,5 +109,6 @@ Worked today on more time and space complexity of algorithms
 ### R2D35
 Today did more work with JUnit testing with more work on time and space complexity of algorithms 
 
-
+### R2D36
+Today was LeetCode and CodeWars problems.  
 
