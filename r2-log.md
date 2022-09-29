@@ -112,3 +112,6 @@ Today did more work with JUnit testing with more work on time and space complexi
 ### R2D36
 Today was LeetCode and CodeWars problems.  
 
+### R2D37
+Today worked on my Spring project adding some JUnit tests to it. 
+
