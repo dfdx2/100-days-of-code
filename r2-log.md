@@ -115,3 +115,7 @@ Today was LeetCode and CodeWars problems.
 ### R2D37
 Today worked on my Spring project adding some JUnit tests to it. 
 
+### R2D38
+Today was LeetCode and CodeWars problems.
+
+
