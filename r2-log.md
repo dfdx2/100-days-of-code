@@ -118,4 +118,5 @@ Today worked on my Spring project adding some JUnit tests to it.
 ### R2D38
 Today was LeetCode and CodeWars problems.
 
-
+### R2D39
+Worked on Linked List Structures today.
