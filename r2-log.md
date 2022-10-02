@@ -120,3 +120,6 @@ Today was LeetCode and CodeWars problems.
 
 ### R2D39
 Worked on Linked List Structures today.
+
+### R2D40
+More work with Data Structures & Algorithms in Java.
