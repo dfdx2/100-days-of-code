@@ -127,3 +127,6 @@ More work with Data Structures & Algorithms in Java.
 ### R2D41
 Today was more LeetCode and CodeWars.
 
+### R2D42
+Continued reading Data Structures & Algorithms in Java.
+
