@@ -123,3 +123,7 @@ Worked on Linked List Structures today.
 
 ### R2D40
 More work with Data Structures & Algorithms in Java.
+
+### R2D41
+Today was more LeetCode and CodeWars.
+
