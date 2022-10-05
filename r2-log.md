@@ -130,3 +130,6 @@ Today was more LeetCode and CodeWars.
 ### R2D42
 Continued reading Data Structures & Algorithms in Java.
 
+### R2D43
+Worked on some Hacktoberfest projects.
+
