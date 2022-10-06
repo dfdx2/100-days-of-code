@@ -133,3 +133,6 @@ Continued reading Data Structures & Algorithms in Java.
 ### R2D43
 Worked on some Hacktoberfest projects.
 
+### R2D44
+Continued working on Hactoberfest projects
+
