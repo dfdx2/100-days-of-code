@@ -136,3 +136,6 @@ Worked on some Hacktoberfest projects.
 ### R2D44
 Continued working on Hactoberfest projects
 
+### R2D45
+Today was all about Lists.  Array Lists, Singly Linked Lists, Doubly Linked Lists
+
