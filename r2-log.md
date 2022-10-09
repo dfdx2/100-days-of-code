@@ -142,3 +142,6 @@ Today was all about Lists.  Array Lists, Singly Linked Lists, Doubly Linked List
 ### R2D46
 More work with Linked Lists today
 
+### R2D47
+Starting to get the hang of Linked Lists
+
