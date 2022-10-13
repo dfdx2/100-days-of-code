@@ -154,3 +154,6 @@ More work with writing JUnit tests today.
 ### R2D50
 Problems from Data Structures & Algorithms in Java.
 
+### R2D51
+Work with Lists in Data Structures Class
+
