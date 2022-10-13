@@ -151,3 +151,6 @@ Did some work with JUnit testing methods.
 ### R2D49
 More work with writing JUnit tests today.
 
+### R2D50
+Problems from Data Structures & Algorithms in Java.
+
