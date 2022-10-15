@@ -157,3 +157,7 @@ Problems from Data Structures & Algorithms in Java.
 ### R2D51
 Work with Lists in Data Structures Class
 
+### R2D52
+Today focused on Binary and Linear Search methods.
+
+
