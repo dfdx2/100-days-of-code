@@ -163,4 +163,6 @@ Today focused on Binary and Linear Search methods.
 ### R2D53
 Started Stacks and Queues from Data Structures & Algorithms in Java book
 
+### R2D54
+Working on HacktoberFest projects
 
