@@ -160,4 +160,7 @@ Work with Lists in Data Structures Class
 ### R2D52
 Today focused on Binary and Linear Search methods.
 
+### R2D53
+Started Stacks and Queues from Data Structures & Algorithms in Java book
+
 
