@@ -166,3 +166,7 @@ Started Stacks and Queues from Data Structures & Algorithms in Java book
 ### R2D54
 Working on HacktoberFest projects
 
+### R2D55
+Today worked with Stacks and Queues
+
+
