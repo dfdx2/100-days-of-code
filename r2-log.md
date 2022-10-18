@@ -169,4 +169,6 @@ Working on HacktoberFest projects
 ### R2D55
 Today worked with Stacks and Queues
 
+### R2D56
+More work with Stacks and Queues today
 
