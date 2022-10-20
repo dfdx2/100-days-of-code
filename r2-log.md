@@ -175,3 +175,6 @@ More work with Stacks and Queues today
 ### R2D57
 Work on HacktoberFest items today.
 
+### R2D58
+More work with Stacks, Deques, and Queues today
+
