@@ -178,3 +178,6 @@ Work on HacktoberFest items today.
 ### R2D58
 More work with Stacks, Deques, and Queues today
 
+### R2D59
+Today was LeetCode and CodeWars problems
+
