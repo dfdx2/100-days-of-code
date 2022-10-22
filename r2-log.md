@@ -181,3 +181,7 @@ More work with Stacks, Deques, and Queues today
 ### R2D59
 Today was LeetCode and CodeWars problems
 
+### R2D60
+Some Hacktoberfest projects today
+
+
