@@ -184,4 +184,5 @@ Today was LeetCode and CodeWars problems
 ### R2D60
 Some Hacktoberfest projects today
 
-
+### R2D61
+Started working with Binary Trees today.
