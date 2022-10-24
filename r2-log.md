@@ -186,3 +186,8 @@ Some Hacktoberfest projects today
 
 ### R2D61
 Started working with Binary Trees today.
+
+### R2D62
+More work with Binary Trees
+
+
