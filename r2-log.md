@@ -190,4 +190,7 @@ Started working with Binary Trees today.
 ### R2D62
 More work with Binary Trees
 
+### R2D63
+Had a quiz today on Stacks and Queues got a 90 on it
+
 
