@@ -196,4 +196,7 @@ Had a quiz today on Stacks and Queues got a 90 on it
 ### R2D64
 Learned different ways to traverse Binary Search Trees.
 
+### R2D65
+More Hackathon projects today.
+
 
