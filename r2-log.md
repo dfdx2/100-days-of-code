@@ -199,4 +199,7 @@ Learned different ways to traverse Binary Search Trees.
 ### R2D65
 More Hackathon projects today.
 
+### R2D66
+CodeWars and LeetCode problems today.
+
 
