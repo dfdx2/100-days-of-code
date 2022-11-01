@@ -211,4 +211,7 @@ Problems from Data Structures & Algorithms in Java today.
 ### R2D69
 Went back and refactored some old CodeWars and LeetCode problems
 
+### R2D70
+Went back to work in Data Structures & Algorithms in Java book.
+
 
