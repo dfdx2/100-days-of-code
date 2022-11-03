@@ -217,4 +217,5 @@ Went back to work in Data Structures & Algorithms in Java book.
 ### R2D71
 More work with Stacks and Queues in Data Structures & Algorithms in Java.
 
-
+### R2D72
+Started Heaps section in Data Structures & Algorithms in Java.  Took a quiz on Binary Trees 
