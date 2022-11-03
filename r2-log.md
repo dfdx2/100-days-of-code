@@ -214,4 +214,7 @@ Went back and refactored some old CodeWars and LeetCode problems
 ### R2D70
 Went back to work in Data Structures & Algorithms in Java book.
 
+### R2D71
+More work with Stacks and Queues in Data Structures & Algorithms in Java.
+
 
