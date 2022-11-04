@@ -219,3 +219,8 @@ More work with Stacks and Queues in Data Structures & Algorithms in Java.
 
 ### R2D72
 Started Heaps section in Data Structures & Algorithms in Java.  Took a quiz on Binary Trees 
+
+### R2D73
+CodeWars and LeetCode problems today.
+
+
