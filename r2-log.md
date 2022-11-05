@@ -223,4 +223,7 @@ Started Heaps section in Data Structures & Algorithms in Java.  Took a quiz on B
 ### R2D73
 CodeWars and LeetCode problems today.
 
+### R2D74
+Some work with JUnit tests today.
+
 
