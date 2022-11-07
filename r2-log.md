@@ -229,3 +229,8 @@ Some work with JUnit tests today.
 ### R2D75
 CodeWars and LeetCode problems today.
 
+### R2D76
+Heaps chapter in Data Structures & Algorithms in Java.
+
+
+
