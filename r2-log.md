@@ -244,3 +244,8 @@ More work with Heaps and Graphs today.
 ### R2D80
 Heaps, Graphs DFS and BFS work today.
 
+### R2D81
+More work with Graphs, Directed Graphs, Cyclic Graphs, Acyclic Graphs.
+
+
+
