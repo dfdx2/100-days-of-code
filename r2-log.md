@@ -253,3 +253,6 @@ CodeWars and LeetCode problems today.
 ### R2D83
 Back to working on Graphs and Heaps in Java.
 
+### R2D84
+Today started learning SQL for backend database work
+
