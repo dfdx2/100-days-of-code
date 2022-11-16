@@ -256,3 +256,6 @@ Back to working on Graphs and Heaps in Java.
 ### R2D84
 Today started learning SQL for backend database work
 
+### R2D85
+More work with graphs and graph traversal
+
