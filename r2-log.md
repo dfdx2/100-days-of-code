@@ -259,3 +259,8 @@ Today started learning SQL for backend database work
 ### R2D85
 More work with graphs and graph traversal
 
+### R2D86
+Started working with Hash Sets and Hash Tables today
+
+
+
