@@ -262,5 +262,8 @@ More work with graphs and graph traversal
 ### R2D86
 Started working with Hash Sets and Hash Tables today
 
+### R2D87
+More work with Hash Sets, and Hash Tables today.
+
 
 
