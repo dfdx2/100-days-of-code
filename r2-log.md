@@ -265,5 +265,8 @@ Started working with Hash Sets and Hash Tables today
 ### R2D87
 More work with Hash Sets, and Hash Tables today.
 
+### R2D88
+Today worked on some Depth First Search and Breadth First Search problems
+
 
 
