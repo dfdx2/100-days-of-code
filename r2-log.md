@@ -271,5 +271,8 @@ Today worked on some Depth First Search and Breadth First Search problems
 ### R2D89
 Did some CodeWars and LeetCode problems today.
 
+### R2D90
+More work with Hash Maps, Hash Sets, and Hash Tables
+
 
 
