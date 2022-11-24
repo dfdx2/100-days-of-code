@@ -280,3 +280,8 @@ Some CodeWars and LeetCode today
 ### R2D92
 Did some work with POSTGRESQL today
 
+### R2D93
+Did some CodeWars and LeetCode today
+
+
+
