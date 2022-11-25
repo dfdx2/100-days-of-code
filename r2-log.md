@@ -283,5 +283,8 @@ Did some work with POSTGRESQL today
 ### R2D93
 Did some CodeWars and LeetCode today
 
+### R2D94
+Work with Hash Maps, Hash Sets, and Hash Tables again today
+
 
 
