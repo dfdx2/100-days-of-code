@@ -286,5 +286,8 @@ Did some CodeWars and LeetCode today
 ### R2D94
 Work with Hash Maps, Hash Sets, and Hash Tables again today
 
+### R2D95
+More work with Hash Maps and Hash Tables
+
 
 
