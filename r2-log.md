@@ -292,5 +292,8 @@ More work with Hash Maps and Hash Tables
 ### R2D96
 Today was CodeWars and LeetCode
 
+### R2D97
+More work with Hash Sets and Tables from Data Structures & Algorithms in Java
+
 
 
