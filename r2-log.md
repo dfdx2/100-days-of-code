@@ -295,5 +295,8 @@ Today was CodeWars and LeetCode
 ### R2D97
 More work with Hash Sets and Tables from Data Structures & Algorithms in Java
 
+### R2D98
+CodeWars and LeetCode today
+
 
 
