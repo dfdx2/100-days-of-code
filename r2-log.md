@@ -298,5 +298,8 @@ More work with Hash Sets and Tables from Data Structures & Algorithms in Java
 ### R2D98
 CodeWars and LeetCode today
 
+### R2D99
+Today worked on Hash Sets, Tables and Maps from Data Structures & Algorithms in Java
+
 
 
