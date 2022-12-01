@@ -301,5 +301,6 @@ CodeWars and LeetCode today
 ### R2D99
 Today worked on Hash Sets, Tables and Maps from Data Structures & Algorithms in Java
 
-
+### R2D100
+Reviewed Stacks, Queues, Binary Trees, Hash Maps, Hash Tables, Hash Sets and Linked Lists.
 
