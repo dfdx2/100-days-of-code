@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 2 - [Derrick Davis]
 
-This is my personal daily log for round 2 of my #100DaysOfCode challenge. Started on [August 24, Wednesday, 2021].
+This is my personal daily log for round 2 of my #100DaysOfCode challenge. Started on [August 24, Wednesday, 2022].
 
 ## ROUND 2 LOG
 
