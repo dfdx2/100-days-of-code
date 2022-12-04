@@ -10,4 +10,6 @@ Today starts Round 3 for me!  Today I worked on Hash Tables, Hash Sets and Hash 
 ### R3D2
 Worked on methods and creating JUnit tests for a hashmap program I wrote.
 
+### R3D3
+More work with JUnit and creating tests.
 
