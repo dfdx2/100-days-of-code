@@ -13,3 +13,6 @@ Worked on methods and creating JUnit tests for a hashmap program I wrote.
 ### R3D3
 More work with JUnit and creating tests.
 
+### R3D4
+More work with JUnit testing and Hash Maps
+
