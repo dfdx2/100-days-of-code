@@ -16,3 +16,5 @@ More work with JUnit and creating tests.
 ### R3D4
 More work with JUnit testing and Hash Maps
 
+### R3D5
+More Hash Maps, Tables and Sets today
