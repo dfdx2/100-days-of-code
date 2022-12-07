@@ -18,3 +18,7 @@ More work with JUnit testing and Hash Maps
 
 ### R3D5
 More Hash Maps, Tables and Sets today
+
+### R3D6
+Final exam for my Data Structures & Algorithms class
+
