@@ -22,3 +22,6 @@ More Hash Maps, Tables and Sets today
 ### R3D6
 Final exam for my Data Structures & Algorithms class
 
+### R3D7
+Work with creating Java methods today.
+
