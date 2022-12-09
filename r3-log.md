@@ -25,3 +25,6 @@ Final exam for my Data Structures & Algorithms class
 ### R3D7
 Work with creating Java methods today.
 
+### R3D8
+More work with methods today.
+
