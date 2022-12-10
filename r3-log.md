@@ -28,3 +28,6 @@ Work with creating Java methods today.
 ### R3D8
 More work with methods today.
 
+### R3D9
+Did some work with Spring today.
+
