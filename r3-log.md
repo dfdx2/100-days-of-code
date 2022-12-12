@@ -34,3 +34,6 @@ Did some work with Spring today.
 ### R3D10
 Went back to review topics in Data Structures & Algorithms in Java
 
+### R3D11
+LeetCode and CodeWars today.
+
