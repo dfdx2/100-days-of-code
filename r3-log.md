@@ -37,3 +37,7 @@ Went back to review topics in Data Structures & Algorithms in Java
 ### R3D11
 LeetCode and CodeWars today.
 
+### R3D12
+Worked in Data Structures & Algorithms in Java
+
+
