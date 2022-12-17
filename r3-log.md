@@ -49,4 +49,7 @@ CodeWars and LeetCode today.
 ### R3D15
 Started Spring in Action by Craig Wells
 
+### R3D16
+CodeWars and LeetCode today.
+
 
