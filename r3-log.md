@@ -67,4 +67,7 @@ More work with Spring today.
 ### R3D21
 LeetCode and CodeWars today.
 
+### R3D22
+Worked on Exception Handling today.
+
 
