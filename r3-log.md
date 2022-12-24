@@ -70,4 +70,7 @@ LeetCode and CodeWars today.
 ### R3D22
 Worked on Exception Handling today.
 
+### R3D23
+More work with Exception Handling.
+
 
