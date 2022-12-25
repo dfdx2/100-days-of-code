@@ -73,4 +73,7 @@ Worked on Exception Handling today.
 ### R3D23
 More work with Exception Handling.
 
+### R3D24
+LeetCode and CodeWars today.  Merry Christmas!
+
 
