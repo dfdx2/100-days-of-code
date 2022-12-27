@@ -79,4 +79,7 @@ LeetCode and CodeWars today.  Merry Christmas!
 ### R3D25
 Went back to Spring in Action by Craig Wells
 
+### R3D26
+CodeWars and LeetCode today.
+
 
