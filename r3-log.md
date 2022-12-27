@@ -5,7 +5,7 @@ This is my personal daily log for round 3 of my #100DaysOfCode challenge. Starte
 ## ROUND 3 LOG
 
 ### R3D1 
-Today starts Round 3 for me!  Today I worked on Hash Tables, Hash Sets and Hash Maps
+Today is the beginning of Round 3 for me!  Today I worked on Hash Tables, Hash Sets and Hash Maps
 
 ### R3D2
 Worked on methods and creating JUnit tests for a hashmap program I wrote.
