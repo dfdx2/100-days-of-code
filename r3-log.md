@@ -85,4 +85,7 @@ CodeWars and LeetCode today.
 ### R3D27
 Worked on some Exception Handling in Java today.
 
+### R3D28
+More work with Exception Handling today.
+
 
