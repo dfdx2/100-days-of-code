@@ -88,4 +88,7 @@ Worked on some Exception Handling in Java today.
 ### R3D28
 More work with Exception Handling today.
 
+### R3D29
+Started learning PostgreSQL today.
+
 
