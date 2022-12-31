@@ -91,4 +91,7 @@ More work with Exception Handling today.
 ### R3D29
 Started learning PostgreSQL today.
 
+### R3D30
+CodeWars and LeetCode today.
+
 
