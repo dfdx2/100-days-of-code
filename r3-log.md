@@ -94,4 +94,7 @@ Started learning PostgreSQL today.
 ### R3D30
 CodeWars and LeetCode today.
 
+### R3D31
+Worked on some problems from Introduction to Java Programming by Y. Daniel Liang today
+
 
