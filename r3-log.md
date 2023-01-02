@@ -97,4 +97,7 @@ CodeWars and LeetCode today.
 ### R3D31
 Worked on some problems from Introduction to Java Programming by Y. Daniel Liang today
 
+### R3D32
+Worked on strengthening my Bubble Sort and Binary Search knowledge.
+
 
