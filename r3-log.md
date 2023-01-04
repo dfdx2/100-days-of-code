@@ -103,4 +103,7 @@ Worked on strengthening my Bubble Sort and Binary Search knowledge.
 ### R3D33
 More work on bubble sort and binary search improvements.
 
+### R3D34
+LeetCode and CodeWars today.
+
 
