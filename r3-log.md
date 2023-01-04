@@ -100,4 +100,7 @@ Worked on some problems from Introduction to Java Programming by Y. Daniel Liang
 ### R3D32
 Worked on strengthening my Bubble Sort and Binary Search knowledge.
 
+### R3D33
+More work on bubble sort and binary search improvements.
+
 
