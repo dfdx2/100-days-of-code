@@ -106,4 +106,7 @@ More work on bubble sort and binary search improvements.
 ### R3D34
 LeetCode and CodeWars today.
 
+### R3D35
+Worked on Insertion Sort problems today.
+
 
