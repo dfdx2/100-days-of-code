@@ -112,4 +112,7 @@ Worked on Insertion Sort problems today.
 ### R3D36
 LeetCode and CodeWars today
 
+### R3D37
+Worked on 2 Pointer problems today.
+
 
