@@ -115,4 +115,5 @@ LeetCode and CodeWars today
 ### R3D37
 Worked on 2 Pointer problems today.
 
-
+### R3D38
+Sorting algorithms today.  
