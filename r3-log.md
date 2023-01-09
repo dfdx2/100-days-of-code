@@ -117,3 +117,8 @@ Worked on 2 Pointer problems today.
 
 ### R3D38
 Sorting algorithms today.  
+
+### R3D39
+Worked on recursion exercises today.
+
+
