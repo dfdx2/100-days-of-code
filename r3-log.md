@@ -121,4 +121,9 @@ Sorting algorithms today.
 ### R3D39
 Worked on recursion exercises today.
 
+### R3D40
+More work with recursion today.
+
+
+
 
