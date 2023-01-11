@@ -124,6 +124,9 @@ Worked on recursion exercises today.
 ### R3D40
 More work with recursion today.
 
+### R3D41
+Today went back to Data Structures & Algorithms in Java.
+
 
 
 
