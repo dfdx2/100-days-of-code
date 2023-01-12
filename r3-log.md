@@ -127,6 +127,9 @@ More work with recursion today.
 ### R3D41
 Today went back to Data Structures & Algorithms in Java.
 
+### R3D42
+CodeWars and LeetCode today.
+
 
 
 
