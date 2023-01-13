@@ -130,6 +130,9 @@ Today went back to Data Structures & Algorithms in Java.
 ### R3D42
 CodeWars and LeetCode today.
 
+### R3D43
+Worked thru some of Data Structures & Algorithms in Java today.
+
 
 
 
