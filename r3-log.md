@@ -133,6 +133,9 @@ CodeWars and LeetCode today.
 ### R3D43
 Worked thru some of Data Structures & Algorithms in Java today.
 
+### R3D44
+More Data Structures & Algorithms in Java
+
 
 
 
