@@ -136,6 +136,9 @@ Worked thru some of Data Structures & Algorithms in Java today.
 ### R3D44
 More Data Structures & Algorithms in Java
 
+### R3D45
+Work with Queues, Stacks and Heaps
+
 
 
 
