@@ -139,6 +139,9 @@ More Data Structures & Algorithms in Java
 ### R3D45
 Work with Queues, Stacks and Heaps
 
+### R3D46
+Today worked with HashSets and Stacks
+
 
 
 
