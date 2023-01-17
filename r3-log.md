@@ -142,6 +142,9 @@ Work with Queues, Stacks and Heaps
 ### R3D46
 Today worked with HashSets and Stacks
 
+### R3D47
+Chapter 2 of Spring in Action by Craig Wells
+
 
 
 
