@@ -148,6 +148,9 @@ Chapter 2 of Spring in Action by Craig Wells
 ### R3D48
 More Spring in Action today
 
+### R3D49
+CodeWars and LeetCode today
+
 
 
 
