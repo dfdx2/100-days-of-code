@@ -163,6 +163,9 @@ More work in Chapter 3 of Spring In Action
 ### R3D53
 Started planning for a financial app built with Spring as a backend using PLAID for the financial aspect
 
+### R3D54
+CodeWars and LeetCode today
+
 
 
 
