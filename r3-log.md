@@ -166,6 +166,9 @@ Started planning for a financial app built with Spring as a backend using PLAID 
 ### R3D54
 CodeWars and LeetCode today
 
+### R3D55
+More prework on the financial app using Spring and PLAID
+
 
 
 
