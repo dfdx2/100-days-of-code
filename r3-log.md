@@ -169,6 +169,5 @@ CodeWars and LeetCode today
 ### R3D55
 More prework on the financial app using Spring and PLAID
 
-
-
-
+### R3D56
+Chapter 3 of Spring In Action by Craig Wells
