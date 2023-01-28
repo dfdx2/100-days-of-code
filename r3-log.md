@@ -175,3 +175,6 @@ Chapter 3 of Spring In Action by Craig Wells
 ### R3D57
 More of Chapter 3 of Spring In Action.
 
+### R3D58
+CodeWars and LeetCode today
+
