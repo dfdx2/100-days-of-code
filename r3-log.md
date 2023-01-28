@@ -171,3 +171,7 @@ More prework on the financial app using Spring and PLAID
 
 ### R3D56
 Chapter 3 of Spring In Action by Craig Wells
+
+### R3D57
+More of Chapter 3 of Spring In Action.
+
