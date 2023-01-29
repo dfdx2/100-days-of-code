@@ -178,3 +178,6 @@ More of Chapter 3 of Spring In Action.
 ### R3D58
 CodeWars and LeetCode today
 
+### R3D59
+Worked on problems from Data Structures & Algorithms in Java.
+
