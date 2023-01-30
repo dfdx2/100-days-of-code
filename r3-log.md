@@ -181,3 +181,6 @@ CodeWars and LeetCode today
 ### R3D59
 Worked on problems from Data Structures & Algorithms in Java.
 
+### R3D60
+Today went back to Fundamentals of Java Programming by Daniel Liang
+
