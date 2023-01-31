@@ -184,3 +184,6 @@ Worked on problems from Data Structures & Algorithms in Java.
 ### R3D60
 Today went back to Fundamentals of Java Programming by Daniel Liang
 
+### R3D61
+CodeWars and LeetCode today
+
