@@ -187,3 +187,6 @@ Today went back to Fundamentals of Java Programming by Daniel Liang
 ### R3D61
 CodeWars and LeetCode today
 
+### R3D62
+More CodeWars and LeetCode today
+
