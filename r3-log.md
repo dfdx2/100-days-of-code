@@ -199,3 +199,6 @@ More Spring In Action today
 ### R3D65
 Continued Spring In Action.
 
+### R3D66
+CodeWars and LeetCode today
+
