@@ -214,4 +214,7 @@ Spring In Action today.
 ### R3D70
 CodeWars and LeetCode today
 
+### R3D71 
+Worked with Elements of Programming Interviews in Java today
+
 
