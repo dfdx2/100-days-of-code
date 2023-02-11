@@ -217,4 +217,7 @@ CodeWars and LeetCode today
 ### R3D71 
 Worked with Elements of Programming Interviews in Java today
 
+### R3D72
+More with Elements of Programming Interviews in Java
+
 
