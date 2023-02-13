@@ -223,4 +223,7 @@ More with Elements of Programming Interviews in Java
 ### R3D73
 More Elements of Programming Interviews in Java
 
+### R3D74
+Continued Elements of Programming Interviews in Java
+
 
