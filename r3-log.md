@@ -232,4 +232,7 @@ CodeWars and LeetCode today
 ### R3D76
 Elements of Programming Interviews in Java today
 
+### R3D77
+More Elements of Programming Interviews in Java today.
+
 
