@@ -235,4 +235,7 @@ Elements of Programming Interviews in Java today
 ### R3D77
 More Elements of Programming Interviews in Java today.
 
+### R3D78
+More Elements of Programming Interviews in Java
+
 
