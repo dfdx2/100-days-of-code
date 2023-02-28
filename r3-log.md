@@ -265,4 +265,7 @@ LeetCode and CodeWars today
 ### R3D87
 More CodeWars and LeetCode today
 
+### R3D88
+Data Structures and Algorithms today
+
 
