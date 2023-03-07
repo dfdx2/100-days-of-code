@@ -289,4 +289,7 @@ Data Structures and Algorithms in Java today
 ### R3D95
 More Data Structures and Algorithms in Java
 
+### R3D96
+CodeWars and LeetCode today
+
 
