@@ -7,3 +7,6 @@ This is my personal daily log for round 3 of my #100DaysOfCode challenge. Starte
 ### R4D1
 Today begins Round 4.  Today I worked on Stacks and Queues from Data Structures & Algorithms in Java.
 
+### R4D2
+Continued studying Stacks and Queues from Data Structures & Algorithms in Java.
+
