@@ -10,3 +10,6 @@ Today begins Round 4.  Today I worked on Stacks and Queues from Data Structures 
 ### R4D2
 Continued studying Stacks and Queues from Data Structures & Algorithms in Java.
 
+### R4D3 
+More work with Stacks from Data Structures & Algorithms in Java.
+
