@@ -13,3 +13,6 @@ Continued studying Stacks and Queues from Data Structures & Algorithms in Java.
 ### R4D3 
 More work with Stacks from Data Structures & Algorithms in Java.
 
+### R4D4
+Continued working with Stacks from Data Structures & Algorithms in Java.
+
