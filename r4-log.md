@@ -19,3 +19,6 @@ Continued working with Stacks from Data Structures & Algorithms in Java.
 ### R4D5
 CodeWars and LeetCode today
 
+### R4D6
+More CodeWars and LeetCode today
+
