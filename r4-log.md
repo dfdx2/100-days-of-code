@@ -22,3 +22,6 @@ CodeWars and LeetCode today
 ### R4D6
 More CodeWars and LeetCode today
 
+### R4D7
+More work with Stacks from Data Structures & Algorithms in Java
+
