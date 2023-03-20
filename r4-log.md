@@ -28,3 +28,6 @@ More work with Stacks from Data Structures & Algorithms in Java
 ### R4D8
 Continued working with Stacks from Data Structures & Algorithms in Java
 
+### R4D9
+CodeWars and LeetCode today.
+
