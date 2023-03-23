@@ -37,3 +37,6 @@ More CodeWars and LeetCode today.
 ### R4D11
 Stacks from Data Structures & Algorithms in Java
 
+### R4D12
+Multi Diminsional arrays today
+
