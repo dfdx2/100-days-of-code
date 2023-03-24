@@ -40,3 +40,6 @@ Stacks from Data Structures & Algorithms in Java
 ### R4D12
 Multi Diminsional arrays today
 
+### R4D13
+CodeWars and LeetCode today
+
