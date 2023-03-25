@@ -43,3 +43,6 @@ Multi Diminsional arrays today
 ### R4D13
 CodeWars and LeetCode today
 
+### R4D14
+Linked Lists from Data Structures & Algorithms in Java
+
