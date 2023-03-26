@@ -46,3 +46,6 @@ CodeWars and LeetCode today
 ### R4D14
 Linked Lists from Data Structures & Algorithms in Java
 
+### R4D15
+More work with Linked Lists
+
