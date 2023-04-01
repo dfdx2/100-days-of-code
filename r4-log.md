@@ -63,3 +63,7 @@ CodeWars and LeetCode today
 
 ### R4D20
 More CodeWars and LeetCode today
+
+### R4D21
+Linked Lists from Data Structures & Algorithms in Java
+
