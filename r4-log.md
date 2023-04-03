@@ -70,3 +70,6 @@ Linked Lists from Data Structures & Algorithms in Java
 ### R4D22
 More with Linked Lists from Data Structures & Algorithms in Java
 
+### R4D23
+CodeWars and LeetCode today
+
