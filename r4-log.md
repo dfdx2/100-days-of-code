@@ -76,3 +76,6 @@ CodeWars and LeetCode today
 ### R4D24
 Linked Lists from Data Structures & Algorithms in Java
 
+### R4D25
+Stacks from Data Structures & Algorithms in Java
+
