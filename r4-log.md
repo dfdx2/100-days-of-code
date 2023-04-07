@@ -79,3 +79,6 @@ Linked Lists from Data Structures & Algorithms in Java
 ### R4D25
 Stacks from Data Structures & Algorithms in Java
 
+### R4D26
+More work with Linked Lists from Data Structures & Algorithms in Java
+
