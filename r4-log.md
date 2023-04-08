@@ -85,3 +85,6 @@ More work with Linked Lists from Data Structures & Algorithms in Java
 ### R4D27
 Continued working with Linked Lists from Data Structures & Algorithms in Java
 
+### R4D28
+More work with Linked Lists from Data Structures & Alogrithms in Java
+
