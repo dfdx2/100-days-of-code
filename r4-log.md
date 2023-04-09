@@ -88,3 +88,6 @@ Continued working with Linked Lists from Data Structures & Algorithms in Java
 ### R4D28
 More work with Linked Lists from Data Structures & Alogrithms in Java
 
+### R4D29
+LeetCode and CodeWars problems today.
+
