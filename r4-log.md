@@ -91,3 +91,6 @@ More work with Linked Lists from Data Structures & Alogrithms in Java
 ### R4D29
 LeetCode and CodeWars problems today.
 
+### R4D30
+Linked Lists from Data Structures & Algorithms in Java
+
