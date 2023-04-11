@@ -94,3 +94,6 @@ LeetCode and CodeWars problems today.
 ### R4D30
 Linked Lists from Data Structures & Algorithms in Java
 
+### R4D31
+CodeWars and LeetCode today
+
