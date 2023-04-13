@@ -99,3 +99,7 @@ CodeWars and LeetCode today
 
 ### R4D32
 More CodeWars and LeetCode 
+
+### R4D33
+Linked Lists from Data Structures & Algorithms in Java
+
