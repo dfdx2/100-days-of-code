@@ -115,3 +115,5 @@ CodeWars and LeetCode today
 ### R4D37
 Linked Lists from Data Structures & Algorithms in Java
 
+### R4D38
+More Linked Lists from Data Structures & Algorithms in Java
