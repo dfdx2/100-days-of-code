@@ -117,3 +117,7 @@ Linked Lists from Data Structures & Algorithms in Java
 
 ### R4D38
 More Linked Lists from Data Structures & Algorithms in Java
+
+### R4D39
+Continued Linked Lists from Data Structures & Algorithms in Java
+
