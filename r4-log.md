@@ -124,3 +124,6 @@ Continued Linked Lists from Data Structures & Algorithms in Java
 ### R4D40
 CodeWars and LeetCode today
 
+### R4D41
+Chapter 1 from Learning Spring Boot 3.0 today
+
