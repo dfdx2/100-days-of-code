@@ -127,3 +127,6 @@ CodeWars and LeetCode today
 ### R4D41
 Chapter 1 from Learning Spring Boot 3.0 today
 
+### R4D42
+More in Chapter 1 from Learning Spring Boot 3.0
+
