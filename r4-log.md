@@ -133,3 +133,6 @@ More in Chapter 1 from Learning Spring Boot 3.0
 ### R4D43
 Continued in Chapter 1 from Learning Spring Boot 3.0
 
+### R4D44
+Finished Chapter 1 of Learning Spring Boot 3.0
+
