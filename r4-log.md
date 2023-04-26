@@ -138,3 +138,7 @@ Finished Chapter 1 of Learning Spring Boot 3.0
 
 ### R4D45
 Started Chapter 2 of Learning Spring Boot 3.0
+
+### R4D46
+Continued Chapter 2 of Learning Spring Boot 3.0
+
