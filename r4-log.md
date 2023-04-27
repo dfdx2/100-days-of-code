@@ -142,3 +142,6 @@ Started Chapter 2 of Learning Spring Boot 3.0
 ### R4D46
 Continued Chapter 2 of Learning Spring Boot 3.0
 
+### R4D47
+Leetcode and CodeWars today
+
