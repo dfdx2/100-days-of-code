@@ -151,3 +151,6 @@ Continuing Chapter 2 of Learning Spring Boot 3.0
 ### R4D49
 CodeWars and LeetCode today
 
+### R4D50
+More from Chapter 2 of Learning Spring Boot 3.0
+
