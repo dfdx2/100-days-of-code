@@ -169,3 +169,6 @@ Codewars and Leetcode today
 ### R4D55
 More Codewars and Leetcode
 
+### R4D56
+Continued Chapter 3 of Learning Spring Boot 3.0
+
