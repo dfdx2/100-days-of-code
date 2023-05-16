@@ -200,3 +200,6 @@ More Chapter 3 of Elements of Programming Interviews in Java
 Continued Chapter 3 of Elements of Programming Interviews in Java also
 celebrate 1 full year of coding at least 1 hour per day
 
+### R4D66
+More with Elements of Programming Interviews in Java
+
