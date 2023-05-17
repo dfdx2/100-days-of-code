@@ -203,3 +203,6 @@ celebrate 1 full year of coding at least 1 hour per day
 ### R4D66
 More with Elements of Programming Interviews in Java
 
+### R4D67
+Continued Elements of Programming Interviews in Java
+
