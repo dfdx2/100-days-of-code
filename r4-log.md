@@ -212,3 +212,6 @@ CodeWars and LeetCode today
 ### R4D69
 Continued Elements of Programming Interviews in Java
 
+### R4D70
+More Elements of Programming Interviews in Java today
+
