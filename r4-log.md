@@ -215,3 +215,6 @@ Continued Elements of Programming Interviews in Java
 ### R4D70
 More Elements of Programming Interviews in Java today
 
+### R4D71
+Continued Elements of Programming Interviews in Java
+
