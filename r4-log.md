@@ -248,3 +248,6 @@ CodeWars and LeetCode today
 ### R4D81
 CodeWars and LeetCode today
 
+### R4D82
+Elements of Programming Interviews in Java today
+
