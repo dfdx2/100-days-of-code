@@ -251,3 +251,6 @@ CodeWars and LeetCode today
 ### R4D82
 Elements of Programming Interviews in Java today
 
+### R4D83
+More Elements of Programming Interviews in Java
+
