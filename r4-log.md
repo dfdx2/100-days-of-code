@@ -257,3 +257,6 @@ More Elements of Programming Interviews in Java
 ### R4D84
 Elements of Programming Interviews in Java today
 
+### R4D85
+CodeWars and LeetCode today
+
