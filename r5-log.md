@@ -4,6 +4,10 @@ This is my personal daily log of my #100DaysOfCode challenge. Started on [Tuesda
 
 ## ROUND 5 LOG
 
-### R5D1 
+### R5D1
 
-Worked thru Programming Interviews in Java
+Worked thru Elements of Programming Interviews in Java
+
+### R5D2
+
+More Elements of Programming Interviews in Java
