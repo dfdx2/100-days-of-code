@@ -1,6 +1,7 @@
 # #100DaysOfCode Log - Round 4 - [Derrick Davis]
 
 This is my personal daily log for round 3 of my #100DaysOfCode challenge. Started on [March 12, Sunday, 2023].
+Finished on [Monday June 19, 2023]
 
 ## ROUND 4 LOG
 
