@@ -90,3 +90,7 @@ Received OA email from JPMC
 
 More Elenents of Programming Interviews in Java
 
+### R5D22
+
+CodeWars and LeetCode today
+
