@@ -119,3 +119,7 @@ CodeWars and LeetCode today
 
 Elements of Programming Interviews in Java today
 
+### R5D29
+
+Video interview for JPMC questions about Version Control and process to fix bugs
+
