@@ -127,3 +127,7 @@ Video interview for JPMC questions about Version Control and process to fix bugs
 
 CodeWars and LeetCode today
 
+### R5D31
+
+Elements of Programming Interviews in Java today
+
