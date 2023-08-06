@@ -195,3 +195,7 @@ Elements of Programming Interviews in Java
 
 Elements of Programming Interiviews in Java
 
+### R5D48
+
+CodeWars and Leetcode today
+
