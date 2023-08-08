@@ -203,3 +203,7 @@ CodeWars and Leetcode today
 
 CodeWars and Leetcode
 
+### R5D50
+
+Elements of Programming Interviews in Java
+
