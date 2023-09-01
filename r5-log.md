@@ -299,3 +299,7 @@ Continued Spring Boot 3.0 chapter 1
 
 More Learning Spring Boot 3.0 chapter 1
 
+### R5D74
+
+Learning Spring Boot 3.0 chapter 2
+
