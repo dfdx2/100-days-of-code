@@ -108,7 +108,7 @@ More Elements of Programming Interviews in Java
 
 ### R5D26
 
-Took an OA and understood the questions, couldnt get the environment the way i wanted but 
+Took an OA and understood the questions, couldnt get the environment the way i wanted but
 happy I didnt draw a blank with figuring out how to solve the questions.
 
 ### R5D27
@@ -289,7 +289,7 @@ Learning Spring Boot 3.0
 
 ### R5D71
 
-Learning Spring Boot 3.0 chapter 1 
+Learning Spring Boot 3.0 chapter 1
 
 ### R5D72
 
@@ -337,7 +337,7 @@ Learning Spring Boot 3.0 chapter 2
 
 ### R5D83
 
-Learning Spring Boot 3.0 chapter 3
+Learning Spring Boot 3.0 chapter 2
 
 ### R5D84
 
@@ -363,3 +363,6 @@ Learning Spring Boot 3.0 chapter 3
 
 Learning Spring Boot 3.0 chapter 3
 
+### R5D90
+
+More Learning Spring Boot 3.0 chapter 3
